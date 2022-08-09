@@ -1,6 +1,7 @@
+import time
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.expected_conditions import text_to_be_present_in_element_value
 
 driver = webdriver.Chrome()
 driver.maximize_window()
@@ -14,5 +15,9 @@ password = driver.find_element(By.CSS_SELECTOR, '.mhbspace-10.box-relative>.mhbs
 password.send_keys('K2nS9Qwp7')
 enter_btn = driver.find_element(By.CSS_SELECTOR, '.mhbspace-10:nth-child(3)>.box-inline.col-12.v-middle>button')
 enter_btn.click()
-text_to_be_present_in_element_value('.header-panel-item.header-user-wrapper>a>.header-panel-text.text-center', 'Иван Антонов')
+time.sleep(2)
+
+user_name = driver.find_element(By.CSS_SELECTOR, '.header-panel-item.header-user-wrapper>a>.header-panel-text.text-center')
+user_name_text = user_name.text
+assert user_name_text == 'Иван Антонов'
 driver.quit()
