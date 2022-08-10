@@ -9,14 +9,14 @@ from tests.ui_scripts.cart_scripts import get_cart_positions
 
 from tests.ui_scripts.product_scripts import press_add_to_cart
 from tests.ui_scripts.product_scripts import close_cart_alert
-
+from tests.ui_scripts.common_scripts import open_product
 
 driver = create_driver()
 login(driver, 'ivant095@yandex.ru', 'K2nS9Qwp7')
 open_cart(driver)
 clear_cart(driver)
 
-driver.get('https://www.220-volt.ru/catalog-501522/')
+open_product(driver, "https://www.220-volt.ru/catalog-501522/")
 product_code_in_catalog = driver.find_element(By.CSS_SELECTOR, '.box-inline>#product-code')\
     .text\
     .replace(' ', '')

@@ -9,9 +9,18 @@ def close_cart_alert(driver):
 
 
 def press_add_to_cart(driver):
-    add_to_cart = driver.find_element(
+    driver.find_element(
         By.CSS_SELECTOR,
         '.mvspace-20.mhbspace-10>.ecommerce-tracked-product.in-cart.box-inline.mspace-0'
-    )
-    add_to_cart.click()
+    )\
+        .click()
     time.sleep(3)
+
+def press_add_to_wishlist(driver):
+    driver.find_element(
+        By.CSS_SELECTOR,
+        '.box-inline.v-top.mvrspace-20>.favorite-trigger.text-underdot.text-underline-none.v-middle.text-small'
+    )\
+        .click()
+    time.sleep(2)
+

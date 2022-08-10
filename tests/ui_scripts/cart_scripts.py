@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 def open_cart(driver):
     cart = driver.find_element(By.CSS_SELECTOR, '.header-panel>div:nth-child(3)>a>span>i')
     cart.click()
-    time.sleep(2)
+    time.sleep(3)
 
 
 def get_cart_positions(driver):
