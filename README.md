@@ -13,11 +13,11 @@
 
 Документация:  
 Тест план: https://clck.ru/sYzBB  
-Чек-лист: https://clck.ru/sYzKe 
-Тест-кейс регистрация: https://clck.ru/sYz9w
-тест-кейс логин: https://clck.ru/sYzMp
-тест-кейс пользовательская корзина 1: https://clck.ru/sYzNm
-тест-кейс пользовательская корзина 3: https://clck.ru/sYzPq 
-тест-кейс каталог товаров: https://clck.ru/sYzQb
-тест-кейс избранное: https://clck.ru/sYzCB 
+Чек-лист: https://clck.ru/sYzKe  
+Тест-кейс регистрация: https://clck.ru/sYz9w  
+тест-кейс логин: https://clck.ru/sYzMp  
+тест-кейс пользовательская корзина 1: https://clck.ru/sYzNm  
+тест-кейс пользовательская корзина 3: https://clck.ru/sYzPq  
+тест-кейс каталог товаров: https://clck.ru/sYzQb  
+тест-кейс избранное: https://clck.ru/sYzCB  
 
