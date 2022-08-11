@@ -11,7 +11,7 @@
 
 
 
-Документация:
+Документация:  
 Тест план: https://docs.google.com/document/d/118gIaPNs2c8ScYHBzrjlXVsWNofWdE7v7VIAu55Sz1w/edit  
 Чек-лист: https://docs.google.com/document/d/1hzDjku4WyS9aIjq8WQTV-kQz2FPeUTpIWG1Tj9rMtCQ/edit  
 Тест-кейс регистрация: https://docs.google.com/document/d/1bu1nUCqAnW8tJRfP1dNuRNw8KtiGeGod6kl-7DOjavo/edit  
