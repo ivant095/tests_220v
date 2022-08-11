@@ -9,15 +9,14 @@
 4. Корзина
 5. Избранное
 
- [пример](http://example.com/ "Необязательная подсказка")
+
 
 Документация:  
 [Тест план](https://docs.google.com/document/d/118gIaPNs2c8ScYHBzrjlXVsWNofWdE7v7VIAu55Sz1w/edit)  
-Чек-лист: https://clck.ru/sYzKe  
-Тест-кейс регистрация: https://clck.ru/sYz9w  
-тест-кейс логин: https://clck.ru/sYzMp  
-тест-кейс пользовательская корзина 1: https://clck.ru/sYzNm  
-тест-кейс пользовательская корзина 3: https://clck.ru/sYzPq  
-тест-кейс каталог товаров: https://clck.ru/sYzQb  
-тест-кейс избранное: https://clck.ru/sYzCB  
-
+[Чек-лист](https://docs.google.com/document/d/1-kpGjuw6wjXY0EVp1UTwIo-b1oOMUUtKKYQ4OjUO6Xs/edit)  
+[Тест-кейс регистрация](https://docs.google.com/document/d/1bu1nUCqAnW8tJRfP1dNuRNw8KtiGeGod6kl-7DOjavo/edit)  
+[тест-кейс логин](https://docs.google.com/document/d/1Xe4W_5VbhhnECjU7ZTUCGh3HsIvGiiYLzPzJTxa4BU4/edit)  
+[тест-кейс пользовательская корзина 1](https://docs.google.com/document/d/1TW093WfxkxOl5uLsvXWXqN9Zs6NVZdR52DQ7ujeHYzA/edit)  
+[тест-кейс пользовательская корзина 3](https://docs.google.com/document/d/1MeWmpefl-e1oE8bLVLP5pFB6LjhrMo_CeWoQ9BRauo0/edit)  
+[тест-кейс каталог товаров](https://docs.google.com/document/d/1Rj6nXBkfLdhr9RSAug2VWLf5lbxUn5Xa58bm1GAGsY0/edit)  
+[тест-кейс избранное](https://docs.google.com/document/d/1hzDjku4WyS9aIjq8WQTV-kQz2FPeUTpIWG1Tj9rMtCQ/edit)  
