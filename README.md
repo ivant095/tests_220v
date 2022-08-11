@@ -9,10 +9,10 @@
 4. Корзина
 5. Избранное
 
-
+ [пример](http://example.com/ "Необязательная подсказка")
 
 Документация:  
-Тест план: https://clck.ru/sYzBB  
+[Тест план](https://docs.google.com/document/d/118gIaPNs2c8ScYHBzrjlXVsWNofWdE7v7VIAu55Sz1w/edit)  
 Чек-лист: https://clck.ru/sYzKe  
 Тест-кейс регистрация: https://clck.ru/sYz9w  
 тест-кейс логин: https://clck.ru/sYzMp  
